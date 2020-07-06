@@ -1,0 +1,178 @@
+.body_style
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Merriweather', serif;
+}
+.Sachin
+{   
+    background-color: #E5F9F5;
+    text-align: center;
+    overflow: auto;
+    overflow-y:hidden;
+    padding: 50px auto 0px;
+    color: #66BFBF;
+
+} 
+h1
+{   
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+}   
+
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color:black; 
+}
+.cloud1
+{
+    width: 200px;
+    padding: 0px;
+    position: relative;
+    right: 200px;
+    margin-top: 20px;
+}
+
+.cloud2
+{
+    width: 200px;
+    padding: 0px;
+    position: relative;
+    bottom: 200px;
+    left: 650px;
+}
+
+.mountain
+{
+    width:850px;
+    height:300px;
+    position: relative;
+    top: 120px;
+    right: 100px;
+}
+
+.Profile
+{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    background-color:gold;
+    color: purple;
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+
+.images
+{   
+    image-orientation: 270deg;
+    position: relative;
+    height: 300px;
+    left: 0px;
+    margin-top: 30px;
+    border-radius: 50%;
+}
+
+hr
+{
+    width: 10%;
+    border-color:grey;
+    border-style: dotted;
+    border-top: 0;
+    border-width: 10px;
+    margin-top:0px;
+    padding: 0px;
+
+}
+
+.skills
+{   
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+    color: red;
+    padding: 0px;
+}
+
+.skill
+{
+    color:blue;
+    font-family: 'Aladin', cursive;
+    text-align: center; 
+}
+
+.image
+{
+    margin-top: 30px 30px;
+    width: 600px; 
+    /*float: left;*/   
+}
+
+.email
+{
+    width: 600px;
+    font-family: 'Montserrat', sans-serif;
+    color:purple;
+    background-color: burlywood;
+    text-align: center;
+    position: relative;
+    left: 375px;
+    
+}
+
+.email_image
+{
+    border-radius: 50%;
+    width: 200px;
+    padding-top: 30px;
+}
+
+.program
+{
+    color: #66BFBF;
+    font-size: 30px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.footer
+{
+    background-color:#66BFBF;
+    padding: 50px;
+    position: relative;
+    text-align: center;
+}
+
+.anchor
+{
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.anchor:hover
+{
+    color: #E5F9F5;
+}
+
+
+
+span
+{   
+    background-color: blue;
+}
+
+.copyrit
+{
+    font-size: 12px;
+    color: #EAF6F6;
+}
+
+
+
+
+
+
+
+
+
